@@ -8,5 +8,6 @@ int main()
 	printf("substraction = %d\n",a-b);	
 	printf("product = %d\n",a*b);
 	printf("division = %d",a/b);
+	printf("this file has been edited using git");
 	return 0;
 }
